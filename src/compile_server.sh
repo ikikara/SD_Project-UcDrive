@@ -1,0 +1,1 @@
+javac -d . Server.java User.java Admin.java adm.java
