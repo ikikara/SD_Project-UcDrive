@@ -61,6 +61,6 @@ For both download the folder "#template"
 - For more information about the project, commands and struct of resource files read the Report
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Mário Lemos](https://github.com/MrMarito) 
 - [Pedro Martins](https://github.com/PedroMartinsUC) 
